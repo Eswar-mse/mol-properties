@@ -1,6 +1,8 @@
 ![PyPI](https://img.shields.io/pypi/v/mol-properties)
 ![Python Version](https://img.shields.io/pypi/pyversions/mol-properties)
 ![License](https://img.shields.io/pypi/l/mol-properties)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Contributor%20Covenant-4baaaa.svg)](CODE_OF_CONDUCT.md)
+[![Contributors](https://img.shields.io/badge/Contributing-Yes-brightgreen.svg)](CONTRIBUTING.md)
 
 
 
