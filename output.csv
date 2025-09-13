@@ -1,0 +1,2 @@
+Name_or_ID,SMILES,MW,LogP,logS,HBD,HBA,TPSA,RotB,Lipinski_pass,Lipinski_violations,Lipinski_fail_reasons,Veber_pass,Veber_fail_reasons
+CCO,CCO,46.069,-0.0,0.02,1,1,20.2,0,True,0,,True,

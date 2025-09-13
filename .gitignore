@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.env/
+
+# PyPI / build artifacts
+dist/
+build/
+*.egg
+*.egg-info/
+
+# Optional: OS-specific
+.DS_Store
+Thumbs.db
