@@ -3,7 +3,8 @@
 ![License](https://img.shields.io/pypi/l/mol-properties)
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-Contributor%20Covenant-4baaaa.svg)](CODE_OF_CONDUCT.md)
 [![Contributors](https://img.shields.io/badge/Contributing-Yes-brightgreen.svg)](CONTRIBUTING.md)
-
+[![Security Policy](https://img.shields.io/badge/Security-Policy-green)](https://github.com/<USERNAME>/<REPO>/security/policy)
+[![Contributing](https://img.shields.io/badge/Contributing-guidelines-blue)](https://github.com/<USERNAME>/<REPO>/blob/main/CONTRIBUTING.md)
 
 
 # mol-properties
