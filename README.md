@@ -1,8 +1,7 @@
 ![PyPI](https://img.shields.io/pypi/v/mol-properties)
 ![Python Version](https://img.shields.io/pypi/pyversions/mol-properties)
 ![License](https://img.shields.io/pypi/l/mol-properties)
-![Build](https://github.com/Eswar-mse/mol-properties/actions/workflows/python-app.yml/badge.svg)
-![Downloads](https://img.shields.io/pypi/dm/mol-properties)
+
 
 
 # mol-properties
